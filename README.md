@@ -1,2 +1,2 @@
 # odin-recipes
-Starting the Odin recipes project
+Starting the Odin Recipes project
